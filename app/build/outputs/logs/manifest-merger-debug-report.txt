@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.github.ittianyu:BottomNavigationViewEx:2.0.2] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\c38f3ef4d0e41ca54bbcf8e081b85e8b\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\8f46272fbd532e58aa5fceffe0fc3abf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\952901e1943b832f779b2c0ee536635d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\8b2a68e25340d0e4f647a81e6afc4cd3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\f78245943b8f5d9b6538638123539edd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\5b9578337ef01bb42be218dc949bd1bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\d4481f355fb54983a80ea6324eb8acf4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\e0295f90b1386af6527350e5104ede81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\32ebed7df11a855c22d184977b9868ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\6931d7c7d79c198727145798b2855f56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\bc35c0c226870a67dc72c4c16091e891\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\cd7e3e4edc0bdf30533c9c381793e7a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\fcb093381a7b6966a61e2892ff28ad1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\3f0230a2d2e5c9130c8ee36d2e8e7b99\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\0aceec024419aa461a4476f7e86de8f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\4ab74548b36481bdb9e385c044e09f0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\618ab4ba369b713168c1bec529788234\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\087b45c2a64f1510c6c74a0d13556ffd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\bf939587175fe23fbb87cb1e89e4983f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\6a26a82fefe7305c2596caf7096614d0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\291db01b55481f9fac5fd5a67d9e3caf\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\2cfea505293ae6ec8618b5b61ed11409\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\1fa1755ec454c5d08390c923ede32444\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\d9798c0b77c7cf0b7efb1c4e04c3d3d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\11cc31f7dcc122fc3abf1965cadff0f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\c9a05f4b35a481e0c365b8aac9b2c4c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\c0deab8e28a793012207d3223caf610e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\c4334ac593c7da817037484b048a63bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\c8d3af5bf37782756f46d23be0ee516c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\5275a7d3ecee551f163bfcabb1a19751\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\eb61969bdbeca900fdc2c3cb04a9e970\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\3596157cb6e1291cfaf373b07c6de18e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from [com.github.ittianyu:BottomNavigationViewEx:2.0.2] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\c38f3ef4d0e41ca54bbcf8e081b85e8b\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.ittianyu:BottomNavigationViewEx:2.0.2] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\c38f3ef4d0e41ca54bbcf8e081b85e8b\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\8f46272fbd532e58aa5fceffe0fc3abf\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\8f46272fbd532e58aa5fceffe0fc3abf\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\8b2a68e25340d0e4f647a81e6afc4cd3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\8b2a68e25340d0e4f647a81e6afc4cd3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\6a26a82fefe7305c2596caf7096614d0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\6a26a82fefe7305c2596caf7096614d0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\291db01b55481f9fac5fd5a67d9e3caf\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\291db01b55481f9fac5fd5a67d9e3caf\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\6a26a82fefe7305c2596caf7096614d0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.divyanshi.garg.calculator.Length
+ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:12:9-44
+	android:name
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:12:19-41
+activity#com.divyanshi.garg.calculator.Currency
+ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:13:9-46
+	android:name
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:13:19-43
+activity#com.divyanshi.garg.calculator.Volume
+ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:14:19-41
+activity#com.divyanshi.garg.calculator.temperature
+ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:15:9-49
+	android:name
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:15:19-46
+activity#com.divyanshi.garg.calculator.weight
+ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:16:19-41
+activity#com.divyanshi.garg.calculator.Area
+ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:17:9-42
+	android:name
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:17:19-39
+activity#com.divyanshi.garg.calculator.conversion
+ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:18:9-48
+	android:name
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:18:19-45
+activity#com.divyanshi.garg.calculator.scientific_calculator
+ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:19:9-59
+	android:name
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:19:19-56
+activity#com.divyanshi.garg.calculator.calculator
+ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:20:9-48
+	android:name
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:20:19-45
+activity#com.divyanshi.garg.calculator.MainActivity
+ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:21:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml
+MERGED from [com.github.ittianyu:BottomNavigationViewEx:2.0.2] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\c38f3ef4d0e41ca54bbcf8e081b85e8b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ittianyu:BottomNavigationViewEx:2.0.2] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\c38f3ef4d0e41ca54bbcf8e081b85e8b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\8f46272fbd532e58aa5fceffe0fc3abf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\8f46272fbd532e58aa5fceffe0fc3abf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\952901e1943b832f779b2c0ee536635d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\952901e1943b832f779b2c0ee536635d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\8b2a68e25340d0e4f647a81e6afc4cd3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\8b2a68e25340d0e4f647a81e6afc4cd3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\f78245943b8f5d9b6538638123539edd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\f78245943b8f5d9b6538638123539edd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\5b9578337ef01bb42be218dc949bd1bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\5b9578337ef01bb42be218dc949bd1bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\d4481f355fb54983a80ea6324eb8acf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\d4481f355fb54983a80ea6324eb8acf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\e0295f90b1386af6527350e5104ede81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\e0295f90b1386af6527350e5104ede81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\32ebed7df11a855c22d184977b9868ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\32ebed7df11a855c22d184977b9868ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\6931d7c7d79c198727145798b2855f56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\6931d7c7d79c198727145798b2855f56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\bc35c0c226870a67dc72c4c16091e891\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\bc35c0c226870a67dc72c4c16091e891\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\cd7e3e4edc0bdf30533c9c381793e7a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\cd7e3e4edc0bdf30533c9c381793e7a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\fcb093381a7b6966a61e2892ff28ad1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\fcb093381a7b6966a61e2892ff28ad1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\3f0230a2d2e5c9130c8ee36d2e8e7b99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\3f0230a2d2e5c9130c8ee36d2e8e7b99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\0aceec024419aa461a4476f7e86de8f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\0aceec024419aa461a4476f7e86de8f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\4ab74548b36481bdb9e385c044e09f0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\4ab74548b36481bdb9e385c044e09f0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\618ab4ba369b713168c1bec529788234\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\618ab4ba369b713168c1bec529788234\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\087b45c2a64f1510c6c74a0d13556ffd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\087b45c2a64f1510c6c74a0d13556ffd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\bf939587175fe23fbb87cb1e89e4983f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\bf939587175fe23fbb87cb1e89e4983f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\6a26a82fefe7305c2596caf7096614d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\6a26a82fefe7305c2596caf7096614d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\291db01b55481f9fac5fd5a67d9e3caf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\291db01b55481f9fac5fd5a67d9e3caf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\2cfea505293ae6ec8618b5b61ed11409\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\2cfea505293ae6ec8618b5b61ed11409\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\1fa1755ec454c5d08390c923ede32444\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\1fa1755ec454c5d08390c923ede32444\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\d9798c0b77c7cf0b7efb1c4e04c3d3d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\d9798c0b77c7cf0b7efb1c4e04c3d3d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\11cc31f7dcc122fc3abf1965cadff0f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\11cc31f7dcc122fc3abf1965cadff0f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\c9a05f4b35a481e0c365b8aac9b2c4c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\c9a05f4b35a481e0c365b8aac9b2c4c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\c0deab8e28a793012207d3223caf610e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\c0deab8e28a793012207d3223caf610e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\c4334ac593c7da817037484b048a63bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\c4334ac593c7da817037484b048a63bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\c8d3af5bf37782756f46d23be0ee516c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\c8d3af5bf37782756f46d23be0ee516c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\5275a7d3ecee551f163bfcabb1a19751\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\5275a7d3ecee551f163bfcabb1a19751\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\eb61969bdbeca900fdc2c3cb04a9e970\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\eb61969bdbeca900fdc2c3cb04a9e970\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\3596157cb6e1291cfaf373b07c6de18e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\innovation\.gradle\caches\transforms-2\files-2.1\3596157cb6e1291cfaf373b07c6de18e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\innovation\Desktop\Calculator\app\src\main\AndroidManifest.xml

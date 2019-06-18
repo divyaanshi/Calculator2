@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/basic_calculator"
+        android:title="Basic Calculator"
+        android:icon="@drawable/ic_action_home"/>
+    <item
+        android:id="@+id/scientific_calculator"
+        android:title="Scientific Calculator"
+        android:icon="@drawable/ic_action_calculator"/>
+    <item
+        android:id="@+id/conversion"
+        android:title="Conversion"
+        android:icon="@drawable/ic_action_sc"/>
+    </group>
+
+</menu>

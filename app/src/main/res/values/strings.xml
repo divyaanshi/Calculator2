@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+
+    <string-array name="weight_array">
+        <item>Milligram</item>
+        <item>Centigram</item>
+        <item>Decigram</item>
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>MetricTonnes</item>
+        <item>Pounds</item>
+        <item>Ounces</item>
+
+
+    </string-array>
+
+
+    <string-array name="length_array">
+        <item>Nanometer</item>
+        <item>Millimeter</item>
+        <item>Centimeter</item>
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Inches</item>
+        <item>Foot</item>
+        <item>Yards</item>
+        <item>Miles</item>
+
+
+    </string-array>
+
+    <string-array name="temperature_array">
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+        <item>Celsius</item>
+
+    </string-array>
+
+    <string-array name="area_array">
+        <item>Sq millimeter</item>
+        <item>Sq Centimeter</item>
+        <item>Sq Meter</item>
+        <item>Sq kilometer</item>
+        <item>Acre</item>
+        <item>Hectare</item>
+    </string-array>
+
+    <string-array name="volume_array">
+        <item>Cu Millimeter</item>
+        <item>Cu Centimeter</item>
+        <item>Cu Meter</item>
+        <item>Cu Kilometer</item></string-array>
+
+    <string-array name="currency_array">
+        <item>Rupee</item>
+        <item>Euros</item>
+        <item>Dollar</item>
+
+
+    </string-array>
+</resources>
